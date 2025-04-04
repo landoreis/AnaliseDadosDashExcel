@@ -1,5 +1,5 @@
-📊 DASHBOARD DE VENDAS 
-✅ 1. Base de Dados Utilizada
+##📊 DASHBOARD DE VENDAS 
+###✅ 1. Base de Dados Utilizada
 A base utilizada contém dados fictícios de vendas, simulando um cenário real de uma empresa com múltiplos vendedores, produtos e localidades. A tabela está localizada na aba "Base de Dados" e contém os seguintes campos:
 
 Coluna	Descrição
@@ -13,15 +13,15 @@ Valor Total (R$)	Valor total da venda (Quantidade × Preço Unitário)
 Ano e Mês	Colunas auxiliares derivadas da data para análises por período
 Essa base contém 2.000 registros simulados, cobrindo o ano de 2024.
 
-🧩 2. O Que o Dashboard Mostra (Aba "Dashboard")
-▶️ Gráfico de Vendas por Vendedor
+##🧩 2. O Que o Dashboard Mostra (Aba "Dashboard")
+###▶️ Gráfico de Vendas por Vendedor
 Mostra o total vendido por cada vendedor, em forma de gráfico de colunas.
 
 Inclui rótulos de dados com os valores em reais (R$).
 
 Ordenado do maior para o menor valor total vendido.
 
-▶️ Gráfico de Vendas por Mês
+###▶️ Gráfico de Vendas por Mês
 Mostra o total vendido por mês, em forma de gráfico de colunas.
 
 Inclui rótulos de dados com os valores em reais (R$).
@@ -29,17 +29,17 @@ Inclui rótulos de dados com os valores em reais (R$).
 Ordenado por mês.
 
 
-🛠️ 3. Como Reproduzir Esse Dashboard no Excel
+##🛠️ 3. Como Reproduzir Esse Dashboard no Excel
 Se quiser criar algo semelhante diretamente no Excel, siga os passos:
 
-🔹 Etapa 1: Organize a base de dados
+###🔹 Etapa 1: Organize a base de dados
 Insira seus dados com colunas semelhantes às citadas acima.
 
 Certifique-se de formatar a coluna de datas corretamente.
 
 Crie colunas auxiliares para "Mês" e "Ano", se quiser filtros por período.
 
-🔹 Etapa 2: Crie Tabela Dinâmica
+###🔹 Etapa 2: Crie Tabela Dinâmica
 Selecione a base inteira.
 
 Vá até a aba Inserir > Tabela Dinâmica.
